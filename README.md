@@ -1,2 +1,2 @@
 # W2VBC
-A novel hybrid convolutional and bi-directional long short-term memory (BiLSTM) recurrent neural network framework for predicting in-vivo protein-DNA binding from sequence.
+D2VCB:A hybrid deep neural network use dna2vec for Prediction of in-vivo protein-DNA Binding
